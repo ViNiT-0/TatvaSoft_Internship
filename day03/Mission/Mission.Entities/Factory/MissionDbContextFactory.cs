@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mission.Entities
+namespace Mission.Entities.Factory
 {
     public class MissionDbContextFactory : IDesignTimeDbContextFactory<MissionDbContext>
     {
